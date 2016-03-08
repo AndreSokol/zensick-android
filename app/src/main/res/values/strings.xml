@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZenSick</string>
+    <string name="action_settings">Settings</string>
+    <string name="server_url">teentimes-dev.herokuapp.com</string>
+    <string name="download_data">Drag down to update</string>
+    <string name="title_activity_show_article">showArticle</string>
+</resources>
